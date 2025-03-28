@@ -4,7 +4,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/niweshsah/jderobotics_test.git ~/ros2_ws/src/my_talker
+git clone <your-github-repo-url> ~/ros2_ws/src/my_talker
 cd ~/ros2_ws
 ```
 
@@ -56,4 +56,8 @@ ros2 launch turtlebot3_bringup rviz2.launch.py
 2. Use the **Nav2 Goal Tool** in RViz to set at least 3 waypoints for navigation.
 3. Observe the TurtleBot3 following the waypoints in simulation.
 
+### 5. Demonstration Videos
+- [Video 1](https://youtu.be/_2pT-IkSfRc)
+- [Video 2](https://youtu.be/2LvhYm6oS8U)
+- [Video 3](https://youtu.be/nMTNNLMWxIU)
 
