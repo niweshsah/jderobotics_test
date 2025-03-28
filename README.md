@@ -4,7 +4,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-github-repo-url> ~/ros2_ws/src/my_talker
+git clone https://github.com/niweshsah/jderobotics_test.git ~/ros2_ws/src/my_talker
 cd ~/ros2_ws
 ```
 
